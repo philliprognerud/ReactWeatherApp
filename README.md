@@ -23,12 +23,13 @@ Just click the download button on the upper right of this repo
 
 ## Built With
 
+* [ES6](http://es6-features.org/#Constants)
 * [React JS](https://facebook.github.io/react/)
 * [Redux](http://redux.js.org/)
 * [Sparklines](https://github.com/borisyankov/react-sparklines)
 * [Google Maps API](https://developers.google.com/maps/)
-* [OpenWeather API] (http://openweathermap.org/forecast5)
-* [Bootstrap] (http://getbootstrap.com/)
+* [OpenWeather API](http://openweathermap.org/forecast5)
+* [Bootstrap](http://getbootstrap.com/)
 
 ## Authors
 
